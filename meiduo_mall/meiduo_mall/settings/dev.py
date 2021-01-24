@@ -54,7 +54,8 @@ ROOT_URLCONF = 'meiduo_mall.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+         # 添加这一行的配置信息, 把 templates的绝对路径导入到 [] 中:
+        'DIRS': [os.path.join(BASE_DIR, 'templates')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -67,18 +68,41 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'meiduo_mall.wsgi.application'
-
 
 # Database
 # https://docs.djangoproject.com/en/2.2/ref/settings/#databases
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
-    }
+        'ENGINE': 'django.db.backends.mysql', # 数据库引擎
+        'HOST': '127.0.0.1', # 数据库主机
+        'PORT': 3306, # 数据库端口
+        'USER': 'itcast', # 数据库用户名
+        'PASSWORD': '123456', # 数据库用户密码
+        'NAME': 'meiduo_mall' # 数据库名字
+    },
 }
+
+CACHES = {
+    # 默认存储信息: 存到 0 号库
+    "default": {
+        "BACKEND": "django_redis.cache.RedisCache",
+        "LOCATION": "redis://127.0.0.1:6379/0",
+        "OPTIONS": {
+            "CLIENT_CLASS": "django_redis.client.DefaultClient",
+        }
+    },
+    # session 信息: 存到 1 号库
+    "session": {
+        "BACKEND": "django_redis.cache.RedisCache",
+        "LOCATION": "redis://127.0.0.1:6379/1",
+        "OPTIONS": {
+            "CLIENT_CLASS": "django_redis.client.DefaultClient",
+        }
+    },
+}
+SESSION_ENGINE = "django.contrib.sessions.backends.cache"
+SESSION_CACHE_ALIAS = "session"
 
 
 # Password validation
@@ -118,3 +142,9 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.2/howto/static-files/
 
 STATIC_URL = '/static/'
+
+
+
+
+
+
