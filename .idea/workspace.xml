@@ -1,117 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7c58caf-365d-4fed-a1cb-8be2c19bbe3f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/meiduo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/cart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/goods/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/goods/10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/goods/11.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/goods/12.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/goods/13.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/goods/14.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/goods/15.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/goods/16.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/goods/2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/goods/3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/goods/4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/goods/5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/goods/6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/goods/7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/goods/8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/goods/9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/goods_judge.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/QQ-weixin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/adv01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/adv02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/banner01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/banner02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/banner03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/bar_code.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/cat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/clock.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/clock.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/down.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/edit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/find-password.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/goods/goods001.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/goods/goods002.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/goods/goods003.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/goods/goods004.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/goods/goods005.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/goods/goods006.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/goods/goods007.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/goods/goods008.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/goods/goods009.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/goods_450.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/icons02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/interval_line.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/left_bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/login_banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/logo02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/pay_icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/pic_code.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/register_banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/selected.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/shine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/shop_cart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/slide01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/slide02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/slide03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/slide04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/stars.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/success.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/time_count_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/js/axios-0.18.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/js/base.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/js/cart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/js/common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/js/detail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/js/goods_judge.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/js/host.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/js/jquery-1.12.4.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/js/list.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/js/login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/js/oauth_callback.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/js/order_success.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/js/place_order.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/js/register.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/js/search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/js/slide.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/js/user_center_info.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/js/user_center_pass.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/js/user_center_site.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/js/vue-2.5.16.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/oauth_callback.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/order_success.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/pay_success.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/place_order.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/success_verify_email.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/user_center_info.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/user_center_order.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/user_center_pass.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/user_center_site.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meiduo_mall/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/wsgi.py" afterDir="false" />
-    </list>
+    <list default="true" id="e7c58caf-365d-4fed-a1cb-8be2c19bbe3f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/meiduo_mall/manage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="418">
+              <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -150,6 +40,9 @@
     <option name="width" value="923" />
     <option name="height" value="933" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -161,6 +54,17 @@
             <path>
               <item name="meiduo" type="b2602c69:ProjectViewProjectNode" />
               <item name="meiduo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meiduo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meiduo" type="462c0819:PsiDirectoryNode" />
+              <item name="meiduo_mall" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meiduo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meiduo" type="462c0819:PsiDirectoryNode" />
+              <item name="meiduo_mall" type="462c0819:PsiDirectoryNode" />
+              <item name="meiduo_mall" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -233,20 +137,15 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="700000" />
+    <option name="totallyTimeSpent" value="701000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1626" height="1112" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18869123" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35123968" />
@@ -254,11 +153,17 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,8 +175,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/meiduo_mall/manage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="418">
+          <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
         </state>
       </provider>
     </entry>
